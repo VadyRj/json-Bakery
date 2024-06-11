@@ -1,206 +1,103 @@
 {
-    "menu": [
+    "newProducts": [
         {
             "id": 1,
-            "name": "one-1",
+            "name": "new-1",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "sum": 0
         },
         {
             "id": 2,
-            "name": "one-2",
+            "name": "new-2",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
         },
         {
             "id": 3,
-            "name": "one-3",
+            "name": "new-3",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
-        },
+        }
+    ],
+    "breadProducts": [
         {
             "id": 4,
-            "name": "one-4",
+            "name": "bread-1",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
         },
         {
             "id": 5,
-            "name": "one-5",
+            "name": "bread-2",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
         },
         {
             "id": 6,
-            "name": "two-1",
+            "name": "bread-3",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
-        },
+        }
+    ],
+    "bakeryProducts": [
         {
             "id": 7,
-            "name": "two-2",
+            "name": "bakery-4",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
         },
         {
             "id": 8,
-            "name": "two-3",
+            "name": "bakery-2",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
         },
         {
             "id": 9,
-            "name": "two-4",
+            "name": "bakery-3",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
-        },
+        }
+    ],
+    "dessertsProducts": [
         {
             "id": 10,
-            "name": "two-5",
+            "name": "desert-1",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
         },
         {
             "id": 11,
-            "name": "three-1",
+            "name": "desert-2",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "sum": 0
         },
         {
             "id": 12,
-            "name": "three-2",
+            "name": "desert-3",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
         },
         {
             "id": 13,
-            "name": "three-3",
+            "name": "desert-4",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
         },
         {
             "id": 14,
-            "name": "three-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 15,
-            "name": "three-5",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 16,
-            "name": "four-1",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "sum": 0
-        },
-        {
-            "id": 17,
-            "name": "four-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 18,
-            "name": "four-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 19,
-            "name": "four-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 20,
-            "name": "four-5",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 21,
-            "name": "six-1",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "sum": 0
-        },
-        {
-            "id": 22,
-            "name": "six-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 23,
-            "name": "six-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 24,
-            "name": "six-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 25,
-            "name": "six-5",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 26,
-            "name": "seven-1",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "sum": 0
-        },
-        {
-            "id": 27,
-            "name": "seven-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 28,
-            "name": "seven-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 29,
-            "name": "seven-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
-            "sum": 0
-        },
-        {
-            "id": 30,
-            "name": "seven-5",
+            "name": "desert-5",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
             "status": "",
             "sum": 0
