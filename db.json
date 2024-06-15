@@ -1,107 +1,129 @@
 {
-    "newProducts": [
+    "menu": [
         {
             "id": 1,
-            "name": "new-1",
+            "name": "bread-whole-grain.jpg",
+            "title": "Хлеб из цельного зерна",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 2,
-            "name": "new-2",
+            "name": "bread-onion.jpg",
+            "title": "Хлеб луковый",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 3,
-            "name": "new-3",
+            "name": "bread-onion-garlic.jpg",
+            "title": "Хлеб луково-чесночный",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
-        }
-    ],
-    "breadProducts": [
+        },
         {
             "id": 4,
-            "name": "bread-1",
+            "name": "bun-twisted.jpg",
+            "title": "Крученая булочка",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 5,
-            "name": "bread-2",
+            "name": "bread-onion-carrot.jpg",
+            "title": "Хлеб морковно-луковый",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
         },
         {
             "id": 6,
-            "name": "bread-3",
+            "name": "baguette-fitness-cereals.jpg",
+            "title": "Багет Фитнес зерновой",
             "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "group": "breadProducts",
             "sum": 0
-        }
-    ],
-    "bakeryProducts": [
+        },
         {
             "id": 7,
-            "name": "bakery-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "bun-cinnamon.jpg",
+            "title": "Булочка с корицей",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "bakeryProducts",
             "sum": 0
         },
         {
             "id": 8,
-            "name": "bakery-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "kulich.jpg",
+            "title": "Кулич",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "bakeryProducts",
             "sum": 0
         },
         {
             "id": 9,
-            "name": "bakery-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "pie-berry.jpg",
+            "title": "Пирог ягодный",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "dessertsProducts",
             "sum": 0
-        }
-    ],
-    "dessertsProducts": [
+        },
         {
             "id": 10,
-            "name": "desert-1",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "pizza.jpg",
+            "title": "Пицца",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "newProducts",
             "sum": 0
         },
         {
             "id": 11,
-            "name": "desert-2",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
+            "name": "easter-eggs.jpg",
+            "title": "Яйца пасхальные",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "newProducts",
             "sum": 0
         },
         {
             "id": 12,
-            "name": "desert-3",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "lemon-cupcake.jpg",
+            "title": "Кекс лимонный",
+            "structure": "Мука, яйцо, молоко, соль, сахар, корица",
+            "group": "dessertsProducts",
             "sum": 0
         },
         {
             "id": 13,
-            "name": "desert-4",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "buns-apple.jpg",
+            "title": "Пирожки с яблоком",
+            "structure": "Мука, яйцо, молоко, соль, сахар, яблоко",
+            "group": "bakeryProducts",
             "sum": 0
         },
         {
             "id": 14,
-            "name": "desert-5",
-            "structure": "Мука, яйцо, молоко, соль, сахар,",
-            "status": "",
+            "name": "buns-cottage-cheese.jpg",
+            "title": "Пирожки с творогом",
+            "structure": "Мука, яйцо, молоко, соль, сахар, творог",
+            "group": "bakeryProducts",
+            "sum": 0
+        },
+        {
+            "id": 15,
+            "name": "pies-cabbage.jpg",
+            "title": "Пирожки с капустой",
+            "structure": "Мука, яйцо, молоко, соль, сахар, творог",
+            "group": "bakeryProducts",
             "sum": 0
         }
     ]
 }
+
+
+
+
+
